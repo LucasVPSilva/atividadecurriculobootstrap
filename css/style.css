@@ -1,14 +1,14 @@
 
 
-.photoThumb{
+/* .photoThumb{
     margin-top: 20vh;
 }
 
 .rightBox {
     margin-top: 25vh;
-}
+} */
 
-@media (max-width: 576px)  {
+/* @media (max-width: 576px)  {
 
     .mainContent{
         display: flex;
@@ -26,4 +26,4 @@
     .photoThumb{
         display: none;
     }
-}
+} */
