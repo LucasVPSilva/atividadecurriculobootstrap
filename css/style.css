@@ -1,0 +1,29 @@
+
+
+.photoThumb{
+    margin-top: 20vh;
+}
+
+.rightBox {
+    margin-top: 25vh;
+}
+
+@media (max-width: 576px)  {
+
+    .mainContent{
+        display: flex;
+        flex-direction: row !important;
+        justify-content: center;
+        align-items: center;
+    }
+    .leftBox {
+        display: flex;
+        flex-direction: row !important;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .photoThumb{
+        display: none;
+    }
+}
